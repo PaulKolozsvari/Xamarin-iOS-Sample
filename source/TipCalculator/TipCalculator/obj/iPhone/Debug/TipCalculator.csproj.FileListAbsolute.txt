@@ -1,0 +1,14 @@
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/bin/iPhone/Debug/TipCalculator.exe
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/bin/iPhone/Debug/TipCalculator.pdb
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/obj/iPhone/Debug/device-builds/iphone11.2-12.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/obj/iPhone/Debug/device-builds/iphone11.2-12.3.1/actool/_PartialAppManifest.items
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/obj/iPhone/Debug/device-builds/iphone11.2-12.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/obj/iPhone/Debug/device-builds/iphone11.2-12.3.1/coremlc/_PartialAppManifest.items
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/obj/iPhone/Debug/device-builds/iphone11.2-12.3.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/obj/iPhone/Debug/device-builds/iphone11.2-12.3.1/optimized/
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/obj/iPhone/Debug/TipCalculator.csproj.CoreCompileInputs.cache
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/obj/iPhone/Debug/TipCalculator.csproj.CopyComplete
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/obj/iPhone/Debug/TipCalculator.exe
+/Users/paulkolozsvari/Documents/Git/Xamarin-iOS-Sample/source/TipCalculator/TipCalculator/obj/iPhone/Debug/TipCalculator.pdb
